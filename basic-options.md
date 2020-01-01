@@ -289,7 +289,7 @@ Vue has a dependency cache based on the corresponding property on the getter, wh
     })
 ```
 
-# 监听器 watch
+# Listening event
 Vue Provides a listener for a single property, which is automatically triggered when the property changes. Improper use of this item will affect performance, so use it with caution.
 ```html
     <input type="text" v-model="a">

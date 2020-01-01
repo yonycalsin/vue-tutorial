@@ -208,7 +208,7 @@ Directive, in other words, a custom attribute of an element, a custom attribute 
   ```
   
    </td></tr>    
-      <tr><td>v-model</td><td>表单元素的值</td><td><!--v-model-->
+      <tr><td>v-model</td><td>Valores de elementos de formulario</td><td><!--v-model-->
       
   ``` html
     <!--For form elements only, two-way binding-->

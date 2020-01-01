@@ -45,7 +45,7 @@ Rendering results
     <div class="className1 className2"></div>
 ```
 
-## 数组语法
+## Sintaxis de matriz
 v-bind: class = "[]", the array element can be an expression or a string, if it is a string, it is directly output as the style name
 ``` html
     <div :class="[class1, class2, 'className3', active ? 'className4' : '']"></div>

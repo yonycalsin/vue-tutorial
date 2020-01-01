@@ -17,7 +17,7 @@ Jumping between traditional pages is achieved by refreshing and re-rendering a p
 ```javascript
     //Component definition Vue.component (component name, (template))
     Vue.component('global-component', {
-        template: '<h1>全局组件</h1>'
+        template: '<h1>Global component</h1>'
     })
 
     var vm = new Vue({
@@ -27,7 +27,7 @@ Jumping between traditional pages is achieved by refreshing and re-rendering a p
 The final rendering effect
 ```html
     <div id="app">
-        <h1>全局组件</h1>
+        <h1>Global component</h1>
     </div>
 ```
 ## Local component

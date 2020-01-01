@@ -17,15 +17,15 @@
 - Meet Vue
 - Know the data-driven model
 - Understanding the MVVM Model
-- [Template Syntax](https://github.com/YoniCalsin/vue-tutorial/blob/master/template-syntax.md)
-- [Style Binding](https://github.com/YoniCalsin/vue-tutorial/blob/master/style-binding.md)
-- [Basic properties when instantiating Vue](https://github.com/YoniCalsin/vue-tutorial/blob/master/basic-options.md)
-- [Modifiers](https://github.com/YoniCalsin/vue-tutorial/blob/master/modifiers.md)
-- [Component](https://github.com/YoniCalsin/vue-tutorial/blob/master/component.md)
-- [Directive](https://github.com/YoniCalsin/vue-tutorial/blob/master/template-syntax.md#instruction)
-- [Custom Instructions](https://github.com/YoniCalsin/vue-tutorial/blob/master/directive.md)
-- [Animation and transition effects](https://github.com/YoniCalsin/vue-tutorial/blob/master/transition.md)
-- [Routing](https://github.com/YoniCalsin/vue-tutorial/blob/master/router.md)
+- [Template Syntax](./template-syntax.md)
+- [Style Binding](./style-binding.md)
+- [Basic properties when instantiating Vue](./basic-options.md)
+- [Modifiers](./modifiers.md)
+- [Component](./component.md)
+- [Directive](./template-syntax.md#instruction)
+- [Custom Instructions](./directive.md)
+- [Animation and transition effects](./transition.md)
+- [Routing](./router.md)
 
 
 

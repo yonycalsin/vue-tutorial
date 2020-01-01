@@ -7,9 +7,9 @@
 
 <p align="center">
 <a href="https://github.com/yonicalsin/vue-tutorial"><img src="https://img.shields.io/spiget/stars/1000?color=brightgreen&label=Star&logo=github" /></a>
-<a href="https://github.com/yonicalsin/vue-tutorial"><img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square&logo=github" /></a>
+<!-- <a href="https://github.com/yonicalsin/vue-tutorial"><img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square&logo=github" /></a> -->
 <!-- <a href="https://github.com/yonicalsin/vue-tutorial"><img src="https://img.shields.io/badge/Github%20Page-Yoni%20Calsin-yellow?style=flat-square&logo=github" /></a> -->
-<a href="https://github.com/yonicalsin"><img src="https://img.shields.io/badge/Author-Yoni%20Calsin-blueviolet?style=flat-square&logo=appveyor" /></a>
+<a href="https://github.com/yonicb"><img src="https://img.shields.io/badge/Author-Yoni%20Calsin-blueviolet?style=flat-square&logo=appveyor" /></a>
 </p>
 
 # Technology Point Catalog

@@ -25,7 +25,7 @@ There are many types of custom instructions and component definitions. There are
     })
 ```
 
-## 局部指令
+## Local instruction
 ```html
     <div id="app">
         <!--A custom instruction v-private is used here-->

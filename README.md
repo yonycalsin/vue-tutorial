@@ -98,7 +98,7 @@ Vue.directive('color',{
 	}
 })
 ```
-### 局部定义
+### Definición local
 ```javascript
 new Vue({
 	directives: {

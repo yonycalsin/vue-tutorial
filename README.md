@@ -262,7 +262,7 @@ In other words, Vue can register filters globally or locally, which is an advant
 ### Steps to create a component
 ```javascript
 var Wscats = Vue.extend({//Step one: define
-	template: '<p>我是Oaoafly Wscats</p>'
+	template: '<p>\'Im Yoni</p>'
 })
 Vue.component('myWscats', Wscats)//Step 2: Register to Vue (here is global registration)
 var myDemo = new Vue({//Step three: create the instantiation
